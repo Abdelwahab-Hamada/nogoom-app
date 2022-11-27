@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/nogoom-app/static/css/main.66527bfb.css",
+    "main.js": "/nogoom-app/static/js/main.abb063ef.js",
+    "index.html": "/nogoom-app/index.html",
+    "main.66527bfb.css.map": "/nogoom-app/static/css/main.66527bfb.css.map",
+    "main.abb063ef.js.map": "/nogoom-app/static/js/main.abb063ef.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.66527bfb.css",
+    "static/js/main.abb063ef.js"
+  ]
+}
